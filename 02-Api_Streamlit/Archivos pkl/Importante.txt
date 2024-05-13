@@ -1,0 +1,4 @@
+Para ejecutar la API:
+- Dirigirse a la pestaña "Descarga" del jupyer /01-Seleccion_modelo/Laboratorio.ipynb
+- Descargar en esta carpeta pipeline_preprocesamiento.pkl
+- Descargar en esta carpeta modelo_random_forest.pkl
