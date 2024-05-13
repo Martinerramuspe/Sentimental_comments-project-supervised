@@ -1,7 +1,6 @@
 # Introducción
 
 Medir el sentimiento de cada uno de los comentarios es un trabajo complejo, ya que la clasificación no solo depende de las palabras y las frases, sino también del entorno en el cual se evalúa. En este caso, los comentarios corresponden a la evaluación de videojuegos, siendo estos:
-
 - Positivo
 - Negativo
 - Neutro
@@ -11,3 +10,4 @@ La fuente de estos mismos fue Twitter. Para problemáticas es importante tener u
 
 El objetivo de este proyecto no es solo crear una aplicación para calificar comentarios, sino también evaluar los rendimientos de este cuando variamos de datos (para poder comprender la importancia que tiene la cantidad de datos en estas problemáticas). Además de comparar modelos para descubrir cuáles son aquellos que responden mejor a una problemática de clasificación.
 
+![Texto alternativo](https://github.com/Martinerramuspe/Sentimental_comments-project-supervised/blob/main/02-Api_Streamlit/Portada.png?raw=true)
